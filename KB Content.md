@@ -14,7 +14,7 @@
     * [Wabbajack is stuck on the select install and download location screen](#wabbajack-is-stuck-on-the-select-install-and-download-location-screen)
     * [Wabbajack stuck on Installing modlist screen](#wabbajack-stuck-on-installing-modlist-screen)
   
-  * [Install Failed Errors]()
+  * [Install Failed Errors](#installation-failed-errors)
     * [Install Failed with screenshot showing the Wabbajack UI log with 'Unable to download...' error visible.](#install-failed-with-screenshot-showing-the-wabbajack-ui-log-with-unable-to-download-error-visible)
     * [Install Failed - Out of Memory error](#install-failed---out-of-memory-error)
     * [Installation Failed - 7zip Return Error](#installation-failed---7zip-return-error)
