@@ -13,7 +13,11 @@ Once you have found the mod which contains the weapon you'd like to edit expand 
 
 For an explanation of the colours used for the records here (They may look slightly different for you depending on your Xedit theme being used) click the legend button in the top right of Xedit, you can leave this legend open while you work to remind yourself if you need to.
 
+**NOTE - Red does not equal bad. Don't panic by the colours you see. check the legend and make sure what you want to happen is happening**
+
 ![image](https://user-images.githubusercontent.com/38520983/157177979-2625562e-c680-4b6e-b5c6-f9e63d2c9f20.png)
+
+![image](https://user-images.githubusercontent.com/38520983/157364460-2ea50260-d262-4c20-a207-fa30a9838fad.png)
 
 In this example these Weapon records are 'Masters' noted by the purple text, but are being overrided by a later plugin, noted by the brownish yellow background.
 
