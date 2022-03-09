@@ -27,6 +27,8 @@ Clicking on a particular record will show you which plugins are affecting the re
 
 ---
 
+#### Making a Plugin
+
 In order to make your patch you'll want to find all the records that you want to change, and add them to your own plugin. Editing the Original plugin file can lead to issues and is generally a bad idea, but it can be done.
 
 ![image](https://user-images.githubusercontent.com/38520983/157180378-d1b93a10-4355-4bc7-8ac1-2fd19df51437.png)
@@ -54,6 +56,8 @@ Your patch will be created at the bottom of your plugin list, with the categorie
 ![image](https://user-images.githubusercontent.com/38520983/157185602-d61d6839-407d-4385-aeb5-785401264e5b.png)
 
 So now you'll see that your new patch is furthest to the right, so anything you do in the patch will be what wins conflicts (moving the plugins load order can change this so make sure you come back after you move things around and check)
+
+#### Doing the editing
 
 ![image](https://user-images.githubusercontent.com/38520983/157185798-680e4b1d-ebd5-433c-9bdd-e670ae302ed8.png)
 
@@ -94,6 +98,8 @@ While not relevant in this example this field for `EITM - Object Effect` would b
 I will work on the assumption you've read the Weapon Stats section and understand the basics of making a patch plugin so I will jump straight in to adjusting armour values, they're very similar to the weapon stats above.
 
 ---
+
+#### Editing the Armour Stats
 
 ![image](https://user-images.githubusercontent.com/38520983/157349356-0b0dc11b-538f-4d5c-81f5-f3b9e577243b.png)
 
