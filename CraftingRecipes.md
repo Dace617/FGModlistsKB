@@ -188,7 +188,7 @@ You'll notice these items currently have 0 in the `Count` Row. so they don't cur
 
 ![image](https://user-images.githubusercontent.com/38520983/157357215-2fa695c6-b724-41da-b6ed-f68606aaeb81.png)
 
-Doing the same for the existing Leather item now means to craft this item you'll need to have 1 Daedra Heart, 1 Ebony Ingot and 1 Leather to craft this item. 
+Doing the same for the existing Leather item now means you'll need to have 1 Daedra Heart, 1 Ebony Ingot and 1 Leather to craft this item. 
 
 ![image](https://user-images.githubusercontent.com/38520983/157357527-f81986ce-481d-47ee-b58c-c2d7f96894e6.png)
 
