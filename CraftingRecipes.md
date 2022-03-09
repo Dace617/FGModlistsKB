@@ -130,7 +130,7 @@ And lastly we have the `DATA - Data` and `DNAM - Armor Rating` section. the Data
 ## Crafting Recipes
 
 ForgottenGlory covered this already in an old document [HERE](https://docs.google.com/document/d/1E1c3e5D_GS_mJrpR7EgupUfq0b1PBHbidf62fBhhEOg/)
-But if you'd like to read my breakdown of it then continue.
+I'd recommened reading that first and then coming back to this if you need to.
 
 This section will cover editing crafting recipes for items. I'll add a section for Temper and Breakdown recipes later but they are very similar anyway, so you may be able to figure it out yourself. Again I'll assume you've read the weapon stats section and won't cover the basic instructions twice.
 
@@ -188,7 +188,7 @@ You'll notice these items currently have 0 in the `Count` Row. so they don't cur
 
 ![image](https://user-images.githubusercontent.com/38520983/157357215-2fa695c6-b724-41da-b6ed-f68606aaeb81.png)
 
-Doing the same for the existing Leather item now means to craft this item you'll need to have 1 Daedra Heart, 1 Ebony Ingot and 1 Leather to craft this item. Items required to craft an item can also hide it from your crafting menu, for example if you had no ebony ingots or no deadra hearts this item may not show (I am currently not certain if this is a mod interaction or a base Skyrim function, this is just an observation)
+Doing the same for the existing Leather item now means to craft this item you'll need to have 1 Daedra Heart, 1 Ebony Ingot and 1 Leather to craft this item. 
 
 ![image](https://user-images.githubusercontent.com/38520983/157357527-f81986ce-481d-47ee-b58c-c2d7f96894e6.png)
 
@@ -218,9 +218,9 @@ You'll be met with this confusing mess. Don't worry we'll go into some specific 
 
 ---
 
-###### CTDA
+###### What's in a Condition
 
-The CTDA record is a break down of the condition and how it works.
+The `CTDA` record is a break down of the condition and how it works.
 
 ![image](https://user-images.githubusercontent.com/38520983/157359032-4d75c5d4-4a66-4309-a0dc-6a1280d61b69.png)
 
