@@ -107,7 +107,7 @@ We'll be editing this CrimsonDarkElfMask armour piece for this example, I've mad
 
 ![image](https://user-images.githubusercontent.com/38520983/157349526-2a51a18b-7c2a-4a05-8a2c-c43850135e6d.png)
 
-You can see the Record Flags are mostly the same the notable difference is the Shield flag. Unsurprisingly this would be a flag you'd use for a shield, or at least for an item you wanted to function as a shield.
+You can see the Record Flags are mostly the same as the Weapon Flags
 
 ![image](https://user-images.githubusercontent.com/38520983/157349695-c9dc75e4-2f9a-4032-940c-fc53f8935a98.png)
 
@@ -120,6 +120,8 @@ Next is the Armor Type, should be straight forward, you can select between Cloth
 Again we have a Keyword section. Very similar to the weapon keywords but there are a few specific to the armour records. In this case we've got a material keyword, and 3 Jewelery keywords that makes mods looking for these keywords think this item is jewelry, from the ArmorJewlery Keyword, and the VendorItemJewelery keyword, which means vendors that buy and sell jewelery would accept this item. and the JeweleryExpensive keyword, which means it's... well expensive. This last keyword would be important if you were raising or reducing the value of the item. you may want to add or remove this keyword as necessary.
 
 And lastly we have the ClothingCirclet keyword, for a circlet this is fine, if you were modifying the armour type for an item though you might want to change this so that a later mod or the base game looking for this keyword doesn't do strange things like remove it's armour rating etc.
+
+There's no strict rules on an item needing Keywords, but if a mod feature is not functioning correctly on an item Keywords are a good first place to check.
 
 ![image](https://user-images.githubusercontent.com/38520983/157350771-2f402adc-acc6-420d-9370-0f05eb426a24.png)
 
@@ -138,11 +140,11 @@ This section will cover editing crafting recipes for items. I'll add a section f
 
 ![image](https://user-images.githubusercontent.com/38520983/157354957-cbee72d2-f7bd-4112-bb50-d7c24283e50c.png)
 
-Crafting, and Temper recipes are bundled under the Contructible Object Record section (COBJ) I'm going to use the Dark Elf Mask recipe as the example in this section.
+Crafting, and Temper recipes are bundled under the Constructible Object Record section (COBJ) I'm going to use the Dark Elf Mask recipe as the example in this section.
 
 ![image](https://user-images.githubusercontent.com/38520983/157355220-cb0d6c87-a149-4523-a0b4-3c1431dc27cd.png)
 
-So you can see the armour patch we made now has the Armor record we changed earlier, and the newly added COBJ recipe for the armour piece. Be sure to check it is the actual crafting recipe for the item and not just the temper recipe, sometimes if the mod has poor naming of records it can be hard to tell.
+So you can see the armour patch we made now has the Armor record we changed earlier, and the newly added COBJ recipe for the armour piece. Be sure to check it is the actual crafting recipe for the item and not the temper recipe, sometimes if the mod has poor naming of records it can be hard to tell.
 
 ![image](https://user-images.githubusercontent.com/38520983/157355375-4fa69133-1a29-4495-ac33-1fca0c7ebf0c.png)
 
