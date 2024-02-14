@@ -264,6 +264,7 @@ So double click the Equal to entry and you'll get a nice drop down list, untick 
 
 Now once we click out of the drop down menu with Lesser selected you'll see the entry change to Less than - Which means we're checking if the player has *less than 0 Gold* which under 99% of circumstances can't happen. the recipe is functionally hidden. Always test you conditions in game though.
 
+**Update** There is a much easier condition you can use to hide a recipe, it involves setting the Comparison Value to 1, then set the Function value to `IsPS3`. Functionally this will check if the game is being played on the PS3 console, which is actually impossible on the PC version of the game, meaning your recipe will never show. This will work for anything that uses conditions in the game.
 ---
 
 ###### Condtion 2 - Have a Perk Required.
